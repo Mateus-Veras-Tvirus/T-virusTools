@@ -98,15 +98,13 @@ t-virus >1
 
 #Não esqueça de remover o repositorio. Projeto está em desenvolvimento falta muita coisa. mas esta funcionando bemm. Obrigado a todos
 
-Facebook> https://web.facebook.com/groups/chernobylhackers/
+Facebook> https://www.facebook.com/mateus.veras.3701
 
-Git> https://github.com/T-virus-445
+Git> https://github.com/T-Virus-443
 
-Youtube>> https://www.youtube.com/watch?v=yivrXA7l6Hk&feature=youtu.be
+Youtube>> https://www.youtube.com/channel/UCxNVHL7aHPoqljRpM76X7_w 
 
-obrigado a todos MEU AMOR LUANA minha Hackudaaa
-
-Obrigado Guilherme. e Leooo
+obrigado a todos e ao MEU AMOR CECILIA  minha Hackudaaa Gatuxaa
 
 Repositorio usado no scritp
 
